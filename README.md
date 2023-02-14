@@ -1,12 +1,17 @@
 # Turborepo starter
 
-This is React Toolkit Query vs React Query Demo (Next.js - Nest.js - Typescript - Jest - Cypress - Tailwindcss - Eslint - Prettier - Lintstaged - Hasky)
+React Toolkit Query vs React Query Demo (Next.js - Nest.js - Typescript - Jest - Cypress - Tailwindcss - Eslint - Prettier - Lintstaged - Hasky)
 
 ## Author
 
 Mehmethan Guven
 <br/>
 <a href='mailto:mehmethanguven@gmail.com<'>mehmethanguven@gmail.com</a>
+
+## Some Screenshots
+
+<img src="images/demo1.png" alt="demo" style="height: 600px; width:800px; margin: 10px;"/>
+<img src="images/demo2.png" alt="demo" style="height: 600px; width:800px; margin: 10px;"/>
 
 ## What's inside?
 
