@@ -7,6 +7,8 @@ React Toolkit Query vs React Query Demo (Next.js - Nest.js - Typescript - Jest -
 Mehmethan Guven
 <br/>
 <a href='mailto:mehmethanguven@gmail.com<'>mehmethanguven@gmail.com</a>
+<br/>
+Hire me!
 
 ## Some Screenshots
 
